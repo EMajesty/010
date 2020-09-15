@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name art)(type KiCad)(uri ${KIPRJMOD}/pcb/art)(options "")(descr ""))
+  (lib (name reset)(type KiCad)(uri D:/git/reset)(options "")(descr ""))
+)
